@@ -105,7 +105,7 @@ button:hover {
     }
 
     input[type="text"], input[type="date"], button {
-        width: 100%; /* Lebar penuh */
+        width: 100%; 
         max-width: 100%;
     }
 
